@@ -99,3 +99,4 @@
 /Users/macbook/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/net8.0/PrimeService.Tests.pdb
 /Users/macbook/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/net8.0/PrimeService.Tests.genruntimeconfig.cache
 /Users/macbook/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/net8.0/ref/PrimeService.Tests.dll
+/Users/macbook/Desktop/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/net8.0/PrimeService.Tests.sourcelink.json

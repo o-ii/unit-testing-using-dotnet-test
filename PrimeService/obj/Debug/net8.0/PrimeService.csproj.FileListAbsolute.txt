@@ -9,3 +9,4 @@
 /Users/macbook/Desktop/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/refint/PrimeService.dll
 /Users/macbook/Desktop/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.pdb
 /Users/macbook/Desktop/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/ref/PrimeService.dll
+/Users/macbook/Desktop/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.sourcelink.json
